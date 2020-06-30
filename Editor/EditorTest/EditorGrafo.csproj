@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F82DA26-A943-446C-A10F-7A6B7A694590}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EditorTest</RootNamespace>
+    <AssemblyName>EditorTest</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AristaProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AristaProp.Designer.cs">
+      <DependentUpon>AristaProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CaminoVertices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaminoVertices.Designer.cs">
+      <DependentUpon>CaminoVertices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CArista.cs" />
+    <Compile Include="CGradoVecino.cs" />
+    <Compile Include="CGradoVertice.cs" />
+    <Compile Include="CGrafo.cs" />
+    <Compile Include="CGrafoDirigido.cs" />
+    <Compile Include="CGrafoNoDirigido.cs" />
+    <Compile Include="Componente.cs" />
+    <Compile Include="Config.cs">
+    </Compile>
+    <Compile Include="CVertice.cs" />
+    <Compile Include="Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos.Designer.cs">
+      <DependentUpon>Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Longitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Longitud.Designer.cs">
+      <DependentUpon>Longitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matriz Incidencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matriz Incidencia.Designer.cs">
+      <DependentUpon>Matriz Incidencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matriz Adyacencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matriz Adyacencia.Designer.cs">
+      <DependentUpon>Matriz Adyacencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MatrizFloyd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatrizFloyd.Designer.cs">
+      <DependentUpon>MatrizFloyd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Numero de Aristas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Numero de Aristas.Designer.cs">
+      <DependentUpon>Numero de Aristas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Numero de Vertices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Numero de Vertices.Designer.cs">
+      <DependentUpon>Numero de Vertices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AristaProp.resx">
+      <DependentUpon>AristaProp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaminoVertices.resx">
+      <DependentUpon>CaminoVertices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datos.resx">
+      <DependentUpon>Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Longitud.resx">
+      <DependentUpon>Longitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz Adyacencia.resx">
+      <DependentUpon>Matriz Adyacencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatrizFloyd.resx">
+      <DependentUpon>MatrizFloyd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Numero de Aristas.resx">
+      <DependentUpon>Numero de Aristas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Numero de Vertices.resx">
+      <DependentUpon>Numero de Vertices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipos de Arcos.resx">
+      <DependentUpon>Tipos de Arcos.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Tipos de Arcos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tipos de Arcos.Designer.cs">
+      <DependentUpon>Tipos de Arcos.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abrir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva Carpeta1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nodo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nodo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arista1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arista2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arista3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nodo3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,75 @@
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\bin\Debug\EditorTest.exe
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\bin\Debug\EditorTest.pdb
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Datos.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Form1.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Matriz_Adyacencia.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Numero_de_Aristas.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Numero_de_Vertices.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Properties.Resources.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorGrafo.csproj.GenerateResource.Cache
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.exe
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.pdb
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.AristaProp.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.MatrizFloyd.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Tipos_de_Arcos.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.CaminoVertices.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Longitud.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\bin\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\bin\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.AristaProp.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.CaminoVertices.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Datos.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Form1.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Longitud.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Matriz_Adyacencia.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.MatrizFloyd.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Numero_de_Aristas.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Numero_de_Vertices.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Properties.Resources.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.Tipos_de_Arcos.resources
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\ResGen.read.1.tlog
+C:\Users\DFJPMOSH\Downloads\Juache\Grafos\EditorTest\EditorTest\obj\Debug\ResGen.write.1.tlog
+C:\Users\DFJPMOSH\Documents\DFJP\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Documents\DFJP\Juache\Grafos\EditorTest\EditorTest\obj\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Documents\DFJP\Juache\Grafos - copia\EditorTest\EditorTest\obj\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Documents\DFJP\Juache\Grafos - copia\EditorTest\EditorTest\obj\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\bin\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\bin\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.AristaProp.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.CaminoVertices.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Datos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Form1.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Longitud.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Matriz_Adyacencia.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.MatrizFloyd.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Numero_de_Aristas.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Numero_de_Vertices.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Properties.Resources.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\EditorTest.Tipos_de_Arcos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\ResGen.read.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\EditorTest\EditorTest\obj\Debug\ResGen.write.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\bin\Debug\EditorTest.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\bin\Debug\EditorTest.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.AristaProp.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.CaminoVertices.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Datos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Form1.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Longitud.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Matriz_Adyacencia.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.MatrizFloyd.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Numero_de_Aristas.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Numero_de_Vertices.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Properties.Resources.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\EditorTest.Tipos_de_Arcos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\ResGen.read.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\EditorGrafos\Editor\EditorTest\obj\Debug\ResGen.write.1.tlog

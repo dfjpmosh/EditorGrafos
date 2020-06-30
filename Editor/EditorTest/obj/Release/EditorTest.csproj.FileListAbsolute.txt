@@ -1,0 +1,20 @@
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\bin\Release\EditorTest.exe
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\bin\Release\EditorTest.pdb
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Form1.resources
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.exe
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.pdb
+C:\Users\USUARIO\Desktop\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Datos.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\bin\Release\EditorTest.exe
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\bin\Release\EditorTest.pdb
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Datos.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Form1.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Properties.Resources.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.csproj.GenerateResource.Cache
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.exe
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.pdb
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Editor.resources
+C:\Users\USUARIO\UASLP\2011-2012\Programacion Avanzada\APLICACIONES DE VISUAL\TestGrafos\EditorTest\EditorTest\obj\Release\EditorTest.Matriz_Adyacencia.resources
